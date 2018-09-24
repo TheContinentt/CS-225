@@ -1,3 +1,9 @@
+<<<<<<< HEAD
 @INCLUDE      = ../doxygen/doxygen.conf
 PROJECT_NAME  = "lab_quacks"
 PROJECT_BRIEF = "Spiteful Stacks and Questionable Queues"
+=======
+@INCLUDE      = ../doxygen/doxygen.conf
+PROJECT_NAME  = "lab_quacks"
+PROJECT_BRIEF = "Spiteful Stacks and Questionable Queues"
+>>>>>>> e73ee3ea7fbda9b3ac609f670b78729a8adece6d

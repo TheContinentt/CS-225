@@ -40507,7 +40507,11 @@ glanced
 glances
 glancing
 glancingly
+<<<<<<< HEAD
 gland
+=======
+gland
+>>>>>>> e73ee3ea7fbda9b3ac609f670b78729a8adece6d
 glanders
 glandes
 glands

@@ -1,4 +1,11 @@
+<<<<<<< HEAD
 @INCLUDE        = ../doxygen/doxygen.conf
 PROJECT_NAME    = "LAB_GDB2"
 PROJECT_BRIEF   = "Skip Lists"
 EXTRACT_PRIVATE = YES
+=======
+@INCLUDE        = ../doxygen/doxygen.conf
+PROJECT_NAME    = "LAB_GDB2"
+PROJECT_BRIEF   = "Skip Lists"
+EXTRACT_PRIVATE = YES
+>>>>>>> e73ee3ea7fbda9b3ac609f670b78729a8adece6d
